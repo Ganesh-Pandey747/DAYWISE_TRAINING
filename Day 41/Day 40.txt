@@ -1,0 +1,180 @@
+
+[1:43 PM, 10/8/2021] nikhil cs12: Assignment for Saaturday
+[1:43 PM, 10/8/2021] nikhil cs12: https://angular.io/guide/lazy-loading-ngmodules
+====================================================================
+
+https://social.technet.microsoft.com/wiki/contents/articles/36655.onion-architecture-in-asp-net-core-mvc.aspx
+
+https://www.c-sharpcorner.com/article/integrate-automapper-in-net-core-web-api2/
+===================================================================================
+
+
+
+1). ng g c Registerng gc Login
+2). ng g c Registerng gc Register
+3). ng g c home
+
+
+4). PS C:\GaneshAngular\DummyProject\src\App\Service> ng g s UserService
+
+===>>>
+=======================================================
+CREATE src/App/Service/user-service.service.spec.ts (383 bytes)
+CREATE src/App/Service/user-service.service.ts (140 bytes)
+=======================================================
+
+import { HttpClientModule } from '@angular/common/http';
+
+import { RouterModule, Routes } from '@angular/router';
+===============================================
+imports: [
+    BrowserModule, HttpClientModule, FormsModule,ReactiveFormsModule,RouterModule
+  ],
+
+=======================================================
+
+
+
+
+
+
+======================================================
+app.module.ts
+======================================================
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppComponent } from './app.component';
+import { RegisterComponent } from './register/register.component';
+import { LoginComponent } from './login/login.component';
+import { HttpClientModule } from '@angular/common/http';// step 1
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { RouterModule, Routes } from '@angular/router';
+import { HomeComponent } from './home/home.component'; //step 3
+
+
+const MyRoute:Routes=[     //step 4
+{path:'Register', component:RegisterComponent},  //step 5
+{path:'Login', component:LoginComponent},   //step 6
+{path:'Home', component:HomeComponent}      //step 7
+]
+@NgModule({
+  declarations: [
+    AppComponent,
+    RegisterComponent,
+    LoginComponent,
+    HomeComponent
+  ],
+  imports: [
+    BrowserModule, HttpClientModule, FormsModule,ReactiveFormsModule,RouterModule.forRoot(MyRoute) //step 2
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+
+
+
+
+
+
+====================================================
+Index.html
+====================================================
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dummy Project in Taazaa</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+  <app-root></app-root>
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
+
+==================================================================================================================================================================================
+
+
+
+
+=========================
+App.component.html
+=====================
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">cac</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/Home" routerLinkActivate="active">Employee</a>
+      </li>
+    </ul>
+
+    <ul class="navbar-nav">
+      <a class="nav-link"  routerLink="/login" routerLinkActivate="active">Login</a>
+      <a class="nav-link"  routerLink="/register" routerLinkActivate="active">Register</a>
+      <a class="nav-link" style="cursor:pointer" >Logout</a>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+
+
+==============================================================================
+
+register.component.html
+=============================================================
+<div class="row pt-5">
+  <div class="col-md-6 mx-auto">
+    <div class="card rounded-0">
+      <div class="card-header">
+        <h3 class="mb-0">Registered</h3>
+
+      </div>
+      <div class="card-body">
+        <form class="form">
+              <div class="form-group">
+                <label form="">FullName</label>
+                <input [(ngModel)]="registerUserData.FullName" name="FullName" type="text" class="form-control rounded-0" required>
+              </div>
+
+          <div class="form-group">
+          <label form="">Email</label>
+          <input [(ngModel)]="registerUserData.email" name="email" type="text" class="form-control rounded-0" required>
+        </div>
+
+        <div class="form-group">
+            <label form="">Password</label>
+            <input [(ngModel)]="registerUserData.password" name="password" type="text" class="form-control rounded-0" required>
+          </div>
+        <button (click)="registerUser()" type="button" class="btn btn-success float-right">Register</button>
+        </form>
+    </div>
+  </div>
+</div>
+===========================================================================
+
+registerUserData={
+
+    FullName:'',
+    email:'',
+    password:''
+  
+  };

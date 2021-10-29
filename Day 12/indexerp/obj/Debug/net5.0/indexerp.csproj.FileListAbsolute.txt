@@ -1,0 +1,16 @@
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.exe
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.deps.json
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.runtimeconfig.json
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.runtimeconfig.dev.json
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.dll
+D:\Day12\indexerp\bin\Debug\net5.0\ref\indexerp.dll
+D:\Day12\indexerp\bin\Debug\net5.0\indexerp.pdb
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.csproj.AssemblyReference.cache
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfoInputs.cache
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfo.cs
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.csproj.CoreCompileInputs.cache
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.dll
+D:\Day12\indexerp\obj\Debug\net5.0\ref\indexerp.dll
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.pdb
+D:\Day12\indexerp\obj\Debug\net5.0\indexerp.genruntimeconfig.cache

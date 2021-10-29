@@ -1,0 +1,16 @@
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.exe
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.deps.json
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.runtimeconfig.json
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.dll
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\ref\Ex.dll
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\bin\Debug\net5.0\Ex.pdb
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.dll
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\ref\Ex.dll
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.pdb
+C:\Users\ganesh.pandey\Desktop\Day 42\Ex\obj\Debug\net5.0\Ex.genruntimeconfig.cache

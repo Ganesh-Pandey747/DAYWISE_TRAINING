@@ -1,0 +1,285 @@
+ /* Using snapshot */
+   // ngOnInit() {
+ 
+   //    //This still works but is deprecated
+   //    //this.id=this._Activatedroute.snapshot.params['Id'];  
+ 
+   //    this.id=this._Activatedroute.snapshot.paramMap.get("id");
+ 
+      
+   //    let products=this._productService.getProducts();
+   //    this.product=products.find(p => p.productID==this.id);
+   // }
+
+
+
+
+=====================================================================================
+
+export class Product { 
+ 
+    constructor(productID:number,    name: string ,   price:number) {
+        this.productID=productID;
+        this.name=name;
+        this.price=price;
+    }
+ 
+    productID:number ;
+    name: string ;
+    price:number;
+ 
+}
+import { Observable } from 'rxjs';
+import {Product} from './Product'
+ 
+ 
+export class ProductService{
+ 
+    public getProducts() {
+ 
+        let products:Product[];
+ 
+        products=[
+            new Product(1,'Memory Card',500),
+            new Product(2,'Pen Drive',750),
+            new Product(3,'Power Bank',100)
+        ]
+ 
+        return products;               
+    }
+ 
+ 
+    public getProduct(id) {
+        let products:Product[]=this.getProducts();
+        return products.find(p => p.productID==id);
+    }
+ 
+ 
+}
+
+import { Component, OnInit } from '@angular/core';
+ 
+import { ProductService } from './product.service';
+import { Product } from './product';
+ 
+@Component({
+  templateUrl: './product.component.html',
+})
+ 
+export class ProductComponent
+{
+ 
+   products:Product[];
+   
+   constructor(private productService:ProductService){
+   }
+ 
+   ngOnInit() {
+     this.products=this.productService.getProducts();
+   }
+  
+}
+
+ 
+<h1>Product List</h1>
+<div class='table-responsive'>
+    <table class='table'>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let product of products;">
+                <td>{{product.productID}}</td>
+                <td><a [routerLink]="['/product',product.productID]">{{product.name}} </a> </td>
+                <td>{{product.price}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Router,ActivatedRoute } from '@angular/router';
+ 
+import { ProductService } from './product.service';
+import { Product } from './product';
+ 
+ 
+@Component({
+  templateUrl: './product-detail.component.html',
+})
+ 
+export class ProductDetailComponent
+{
+ 
+   product:Product;
+   id;
+   
+   constructor(private _Activatedroute:ActivatedRoute,
+               private _router:Router,
+               private _productService:ProductService){
+   }
+ 
+  
+   /* Using snapshot */
+   // ngOnInit() {
+ 
+   //    //This still works but is deprecated
+   //    //this.id=this._Activatedroute.snapshot.params['id'];  
+ 
+   //    this.id=this._Activatedroute.snapshot.paramMap.get("id");
+ 
+      
+   //    let products=this._productService.getProducts();
+   //    this.product=products.find(p => p.productID==this.id);
+   // }
+   
+ 
+   /* Using Subscribe */
+   
+   sub;
+ 
+   ngOnInit() {
+ 
+      this.sub=this._Activatedroute.paramMap.subscribe(params => { 
+         console.log(params);
+          this.id = params.get('id'); 
+          let products=this._productService.getProducts();
+          this.product=products.find(p => p.productID==this.id);    
+      });
+ 
+      // This params is deprecated
+ 
+      //this.sub=this._Activatedroute.params.subscribe(params => { 
+      //    this.id = params['id']; 
+      //    let products=this._productService.getProducts();
+      //    this.product=products.find(p => p.productID==this.id);    
+      //
+      //});
+   }
+ 
+   ngOnDestroy() {
+     this.sub.unsubscribe();
+   }
+   
+   onBack(): void {
+      this._router.navigate(['product']);
+   }
+}
+ 
+ 
+<h3>Product Details Page</h3>
+ 
+ 
+product : {{product.name}}
+price : {{ product.price}}
+<p>
+    <a class='btn btn-default' (click)="onBack()">Back </a>
+</p>
+ using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Mvc.Filters;
+
+namespace MVC5DEMO7.Filters
+{
+    public class UserAuthenticationFilter : ActionFilterAttribute, IAuthenticationFilter
+    {
+        public void OnAuthentication(AuthenticationContext filterContext)
+        {
+            //Check Session is Empty Then set as Result is HttpUnauthorizedResult 
+            if (string.IsNullOrEmpty(Convert.ToString(filterContext.HttpContext.Session["UserID"])))
+            {
+                filterContext.Result = new HttpUnauthorizedResult();
+            }
+        }
+
+        //Runs after the OnAuthentication method  
+        //------------//
+        //OnAuthenticationChallenge:- if Method gets called when Authentication or Authorization is 
+        //failed and this method is called after
+        //Execution of Action Method but before rendering of View
+        //------------//
+        public void OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)
+        {
+            //We are checking Result is null or Result is HttpUnauthorizedResult 
+            // if yes then we are Redirect to Error View
+            if (filterContext.Result == null || filterContext.Result is HttpUnauthorizedResult)
+            {
+                filterContext.Result = new ViewResult
+                {
+                    ViewName = "Error"
+                };
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================================================
+===================================================================================================================
+https://www.c-sharpcorner.com/article/net-core-web-api-logging-using-nlog-in-text-file/
+
+https://tusharghosh09006.medium.com/javascript-callback-promise-observable-52c2163ea8fd
+
+https://www.w3schools.com/js/js_async.asp
+
+https://www.javatpoint.com/nodejs-callbacks#:~:text=In%20Node.js%2C%20callbacks%20are%20generally%20used.%20All%20APIs,is%20complete%2C%20it%20will%20call%20the%20callback%20function
+
+https://www.programiz.com/javascript/callback
+
+https://www.tektutorialshub.com/entity-framework-core/querying-in-entity-framework-core/
+
+https://www.tektutorialshub.com/entity-framework-core/ef-core-data-seeding/
+
+https://code-maze.com/action-filters-aspnetcore/
+
+https://www.thecodebuzz.com/exception-filters-in-net-core/
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+======================================================================
+---------------11 important topics :-
+		====================
+1) Anonymous Function
+2) Callback()
+3) Arrow Operator
+4) promise
+5) Async Await
+6) Observable
+*7)HTTPClient (to send data from fontend to core webapi)
+*8)routeguard/Authguard:- ---->is a mechanism to secure the end point in  angular/route
+	1)Routes
+	2)Router
+	3)Activatedroute
+	4)snapshot
+	5)subscribe
+9)seed
+10)log
+11)filter
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+=======================================================================

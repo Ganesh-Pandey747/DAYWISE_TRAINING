@@ -1,0 +1,7 @@
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.csproj.AssemblyReference.cache
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.AssemblyInfoInputs.cache
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.AssemblyInfo.cs
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.csproj.CoreCompileInputs.cache
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.MvcApplicationPartsAssemblyInfo.cs
+D:\Day20_Prac\Employee_Repo\obj\Debug\net5.0\ContactRepo.MvcApplicationPartsAssemblyInfo.cache

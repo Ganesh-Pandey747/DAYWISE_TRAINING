@@ -1,0 +1,6 @@
+https://www.tektutorialshub.com/angular/angular-observable-tutorial-using-rxjs/
+
+
+
+node --experimental-modules O.mjs
+npm install rxjs

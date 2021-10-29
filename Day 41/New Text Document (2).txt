@@ -1,0 +1,232 @@
+Your environment has been set up for using Node.js 14.16.0 (x64) and npm.
+
+C:\Windows\System32>cd..
+
+C:\Windows>cd..
+
+C:\>cd GaneshAngular
+
+C:\GaneshAngular>ng new DummyProject
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE DummyProject/angular.json (3075 bytes)
+CREATE DummyProject/package.json (1075 bytes)
+CREATE DummyProject/README.md (1058 bytes)
+CREATE DummyProject/tsconfig.json (783 bytes)
+CREATE DummyProject/.editorconfig (274 bytes)
+CREATE DummyProject/.gitignore (604 bytes)
+CREATE DummyProject/.browserslistrc (703 bytes)
+CREATE DummyProject/karma.conf.js (1429 bytes)
+CREATE DummyProject/tsconfig.app.json (287 bytes)
+CREATE DummyProject/tsconfig.spec.json (333 bytes)
+CREATE DummyProject/src/favicon.ico (948 bytes)
+CREATE DummyProject/src/index.html (298 bytes)
+CREATE DummyProject/src/main.ts (372 bytes)
+CREATE DummyProject/src/polyfills.ts (2820 bytes)
+CREATE DummyProject/src/styles.css (80 bytes)
+CREATE DummyProject/src/test.ts (788 bytes)
+CREATE DummyProject/src/assets/.gitkeep (0 bytes)
+CREATE DummyProject/src/environments/environment.prod.ts (51 bytes)
+CREATE DummyProject/src/environments/environment.ts (658 bytes)
+CREATE DummyProject/src/app/app.module.ts (314 bytes)
+CREATE DummyProject/src/app/app.component.html (24585 bytes)
+CREATE DummyProject/src/app/app.component.spec.ts (974 bytes)
+CREATE DummyProject/src/app/app.component.ts (216 bytes)
+CREATE DummyProject/src/app/app.component.css (0 bytes)
+√ Packages installed successfully.
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\GaneshAngular>cd DummyProject
+
+C:\GaneshAngular\DummyProject>code .
+
+C:\GaneshAngular\DummyProject>cd..
+
+C:\GaneshAngular>dotnet new webapi --name DummyProject
+
+Welcome to .NET 5.0!
+---------------------
+SDK Version: 5.0.401
+
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Installed an ASP.NET Core HTTPS development certificate.
+To trust the certificate run 'dotnet dev-certs https --trust' (Windows and macOS only).
+Learn about HTTPS: https://aka.ms/dotnet-https
+----------------
+Write your first app: https://aka.ms/dotnet-hello-world
+Find out what's new: https://aka.ms/dotnet-whats-new
+Explore documentation: https://aka.ms/dotnet-docs
+Report issues and find source on GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+Getting ready...
+The template "ASP.NET Core Web API" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on DummyProject\DummyProject.csproj...
+  Determining projects to restore...
+  Restored C:\GaneshAngular\DummyProject\DummyProject.csproj (in 4.35 sec).
+Restore succeeded.
+
+
+C:\GaneshAngular>dotnet new webapi --name DummyWebapiProject
+The template "ASP.NET Core Web API" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on DummyWebapiProject\DummyWebapiProject.csproj...
+  Determining projects to restore...
+  Restored C:\GaneshAngular\DummyWebapiProject\DummyWebapiProject.csproj (in 208 ms).
+Restore succeeded.
+
+
+C:\GaneshAngular>cd DummyWebapiProject
+
+C:\GaneshAngular\DummyWebapiProject>code .
+
+C:\GaneshAngular\DummyWebapiProject>cd..
+
+C:\GaneshAngular>cd..
+
+C:\>md DotnetCoreWebapiProject
+
+C:\>cd DotnetCoreWebapiProject
+
+C:\DotnetCoreWebapiProject>dotnet new classlib --name Domain
+The template "Class library" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on Domain\Domain.csproj...
+  Determining projects to restore...
+  Restored C:\DotnetCoreWebapiProject\Domain\Domain.csproj (in 91 ms).
+Restore succeeded.
+
+
+C:\DotnetCoreWebapiProject>dotnet new classlib --name DataAccessLayer
+The template "Class library" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on DataAccessLayer\DataAccessLayer.csproj...
+  Determining projects to restore...
+  Restored C:\DotnetCoreWebapiProject\DataAccessLayer\DataAccessLayer.csproj (in 69 ms).
+Restore succeeded.
+
+
+C:\DotnetCoreWebapiProject>dotnet new classlib --name BusinessLogicLayer
+The template "Class library" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on BusinessLogicLayer\BusinessLogicLayer.csproj...
+  Determining projects to restore...
+  Restored C:\DotnetCoreWebapiProject\BusinessLogicLayer\BusinessLogicLayer.csproj (in 69 ms).
+Restore succeeded.
+
+
+C:\DotnetCoreWebapiProject>dotnet new sln --name UserManagement
+The template "Solution File" was created successfully.
+
+C:\DotnetCoreWebapiProject>cd..
+
+C:\>cd GaneshAngular
+
+C:\GaneshAngular>ng new DummyProject
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE DummyProject/angular.json (3075 bytes)
+CREATE DummyProject/package.json (1075 bytes)
+CREATE DummyProject/README.md (1058 bytes)
+CREATE DummyProject/tsconfig.json (783 bytes)
+CREATE DummyProject/.editorconfig (274 bytes)
+CREATE DummyProject/.gitignore (604 bytes)
+CREATE DummyProject/.browserslistrc (703 bytes)
+CREATE DummyProject/karma.conf.js (1429 bytes)
+CREATE DummyProject/tsconfig.app.json (287 bytes)
+CREATE DummyProject/tsconfig.spec.json (333 bytes)
+CREATE DummyProject/src/favicon.ico (948 bytes)
+CREATE DummyProject/src/index.html (298 bytes)
+CREATE DummyProject/src/main.ts (372 bytes)
+CREATE DummyProject/src/polyfills.ts (2820 bytes)
+CREATE DummyProject/src/styles.css (80 bytes)
+CREATE DummyProject/src/test.ts (788 bytes)
+CREATE DummyProject/src/assets/.gitkeep (0 bytes)
+CREATE DummyProject/src/environments/environment.prod.ts (51 bytes)
+CREATE DummyProject/src/environments/environment.ts (658 bytes)
+CREATE DummyProject/src/app/app.module.ts (314 bytes)
+CREATE DummyProject/src/app/app.component.html (24585 bytes)
+CREATE DummyProject/src/app/app.component.spec.ts (974 bytes)
+CREATE DummyProject/src/app/app.component.ts (216 bytes)
+CREATE DummyProject/src/app/app.component.css (0 bytes)
+√ Packages installed successfully.
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\GaneshAngular>cd..
+
+C:\>cd GaneshAngular
+
+C:\GaneshAngular>dir
+ Volume in drive C has no label.
+ Volume Serial Number is F251-28FD
+
+ Directory of C:\GaneshAngular
+
+08-10-2021  16:33    <DIR>          .
+08-10-2021  16:33    <DIR>          ..
+07-10-2021  11:06    <DIR>          Angular Employee
+06-10-2021  17:01    <DIR>          Assignment
+07-10-2021  16:12    <DIR>          Day1
+08-10-2021  16:34    <DIR>          DummyProject
+08-10-2021  16:26            12,127 dummy_project_src.zip
+07-10-2021  11:35    <DIR>          FinalProject
+07-10-2021  16:11    <DIR>          New folder
+07-10-2021  11:57    <DIR>          project
+07-10-2021  16:11    <DIR>          SRC
+06-10-2021  16:41    <DIR>          TaazaaUserManagement
+               1 File(s)         12,127 bytes
+              11 Dir(s)  160,274,427,904 bytes free
+
+C:\GaneshAngular>cd ..
+
+C:\>cd DotnetCoreWebapiProject
+
+C:\DotnetCoreWebapiProject>dir
+ Volume in drive C has no label.
+ Volume Serial Number is F251-28FD
+
+ Directory of C:\DotnetCoreWebapiProject
+
+08-10-2021  16:28    <DIR>          .
+08-10-2021  16:28    <DIR>          ..
+08-10-2021  16:24    <DIR>          BusinessLogicLayer
+08-10-2021  16:23    <DIR>          DataAccessLayer
+08-10-2021  16:21    <DIR>          Domain
+08-10-2021  16:28               550 UserManagement.sln
+               1 File(s)            550 bytes
+               5 Dir(s)  160,273,821,696 bytes free
+
+C:\DotnetCoreWebapiProject>dotnet sln add BusinessLogicLayer/BusinessLogicLayer.csproj
+Project `BusinessLogicLayer\BusinessLogicLayer.csproj` added to the solution.
+
+C:\DotnetCoreWebapiProject>dotnet sln add DataAccessLayer/DataAccessLayer.csproj
+Project `DataAccessLayer\DataAccessLayer.csproj` added to the solution.
+
+C:\DotnetCoreWebapiProject>dotnet sln add Domain/Domain.csproj
+Project `Domain\Domain.csproj` added to the solution.
+
+C:\DotnetCoreWebapiProject>dotnet new webapi --name UserManagement
+The template "ASP.NET Core Web API" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on UserManagement\UserManagement.csproj...
+  Determining projects to restore...
+  Restored C:\DotnetCoreWebapiProject\UserManagement\UserManagement.csproj (in 233 ms).
+Restore succeeded.
+
+
+C:\DotnetCoreWebapiProject>

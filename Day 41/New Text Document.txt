@@ -1,0 +1,16 @@
+When we design the application in core web api we should have some logical thoughts,,, the reason is project is nothing, it is a collection of modules like a bank,, eg home loan
+personal loan, daily expenses etc..
+We should have expertise to work on home module. 
+Things will be repeated for next module.
+
+We have to have a person who can examine the knowledge like generics, collections, eception handling.. 
+these are the major areas is to be applied in infrastructure or data access layer.  
+
+Similarly, domain plays a major role because entities , fluentapi, fluentmode Validations and Relations too(O-M,  O-O,  M-M).
+These comes under domain layer.
+
+
+
+
+C:\DotnetCoreWebapiProject>dotnet sln add BusinessLogicLayer/BusinessLogicLayer.csproj
+Project `BusinessLogicLayer\BusinessLogicLayer.csproj` added to the solution.

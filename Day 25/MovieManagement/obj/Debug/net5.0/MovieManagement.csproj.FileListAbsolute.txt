@@ -1,0 +1,7 @@
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 25\MovieManagement\obj\Debug\net5.0\MovieManagement.MvcApplicationPartsAssemblyInfo.cache

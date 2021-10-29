@@ -1,0 +1,87 @@
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\appsettings.Development.json
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\appsettings.json
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.exe
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.deps.json
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.runtimeconfig.json
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.runtimeconfig.dev.json
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\ref\TokenAuthentication.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.pdb
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Humanizer.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Npgsql.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.AssemblyReference.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.AssemblyInfoInputs.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.AssemblyInfo.cs
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.CoreCompileInputs.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\staticwebassets\TokenAuthentication.StaticWebAssets.Manifest.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\staticwebassets\TokenAuthentication.StaticWebAssets.xml
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\scopedcss\bundle\TokenAuthentication.styles.css
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.RazorTargetAssemblyInfo.cache
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.CopyComplete
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.dll
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\ref\TokenAuthentication.dll
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.pdb
+C:\webapi\DAY44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.genruntimeconfig.cache
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\AutoMapper.dll
+C:\webapi\DAY44\TokenAuthentication\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\appsettings.json
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.exe
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.deps.json
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.runtimeconfig.json
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\ref\TokenAuthentication.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\TokenAuthentication.pdb
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\staticwebassets\TokenAuthentication.StaticWebAssets.Manifest.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\staticwebassets\TokenAuthentication.StaticWebAssets.xml
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\scopedcss\bundle\TokenAuthentication.styles.css
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.csproj.CopyComplete
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\ref\TokenAuthentication.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.pdb
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\obj\Debug\net5.0\TokenAuthentication.genruntimeconfig.cache
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ganesh.pandey\Desktop\Day 44\TokenAuthentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

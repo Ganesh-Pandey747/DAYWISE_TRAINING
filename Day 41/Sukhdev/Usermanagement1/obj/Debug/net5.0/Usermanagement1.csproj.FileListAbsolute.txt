@@ -1,0 +1,80 @@
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\appsettings.json
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.exe
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.deps.json
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.runtimeconfig.json
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.runtimeconfig.dev.json
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\ref\Usermanagement1.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Usermanagement1.pdb
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.AssemblyReference.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.AssemblyInfoInputs.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.AssemblyInfo.cs
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.CoreCompileInputs.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\staticwebassets\Usermanagement1.StaticWebAssets.Manifest.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\staticwebassets\Usermanagement1.StaticWebAssets.xml
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\scopedcss\bundle\Usermanagement1.styles.css
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.RazorTargetAssemblyInfo.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.CopyComplete
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\ref\Usermanagement1.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.pdb
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\obj\Debug\net5.0\Usermanagement1.genruntimeconfig.cache
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Npgsql.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\das.sukhdev\Desktop\TaazaaTraining\dotnetwebApi\Usermanagement1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\ref\Usermanagement1.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.pdb
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\appsettings.json
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.exe
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.deps.json
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.runtimeconfig.json
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\ref\Usermanagement1.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Usermanagement1.pdb
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\staticwebassets\Usermanagement1.StaticWebAssets.Manifest.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\staticwebassets\Usermanagement1.StaticWebAssets.xml
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\scopedcss\bundle\Usermanagement1.styles.css
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.RazorTargetAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.csproj.CopyComplete
+C:\Users\ganesh.pandey\Desktop\Day 41\Usermanagement1\obj\Debug\net5.0\Usermanagement1.genruntimeconfig.cache

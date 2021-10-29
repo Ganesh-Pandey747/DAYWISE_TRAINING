@@ -1,0 +1,25 @@
+<div class="container py-5">  
+    <h3 class="text-center text-uppercase">List of Books</h3>  
+    <table class="table table-bordered table-striped">  
+        <thead>  
+            <tr class="text-center text-uppercase">  
+                <th>Bookid</th>  
+                <th>Title</th>  
+                <th>Author </th>  
+                <th>Description </th>  
+                <th>Publisher</th>  
+                <th>Price</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+          <tr *ngFor="let bk of Book ">  
+            <td>{{bk.bookid}}</td>  
+            <td>{{bk.title}}</td>  
+            <td>{{bk.author}}</td>  
+            <td>{{bk.description}}</td>  
+            <td>{{bk.publisher}}</td>  
+            <td>{{bk.price}}</td>  
+          </tr>  
+        </tbody>  
+      </table>  
+    </div>

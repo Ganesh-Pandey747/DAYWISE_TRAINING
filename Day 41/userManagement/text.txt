@@ -1,0 +1,160 @@
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.design
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSql
+dotnet ef database update 
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add test
+dotnet ef database update 
+
+IEnumerable<T> GetAll();
+        T Get(long id);
+        void Insert(T entity);
+        void Update(T entity);
+        void Delete(T entity);
+        void Remove(T entity);
+        void SaveChanges();
+    }
+
+    IEnumerable<User> GetUsers();
+        User GetUser(long id);
+        void InsertUser(User user);
+        void UpdateUser(User user);
+        void DeleteUser(long id);
+___________________________________________________________________
+Insert:
+---------
+http://localhost:5000/api/User/Add
+
+{
+        "UserName": "Ajay",
+        "Email": "a@gmail.com",
+        "Password": "abc",
+        "AddedDate": "2020-05-01",
+        "ModifiedDate": "2020-04-01",
+        "FirstName":"Rahul",
+        "LastName":"Mahajan",
+        "Address":"Delhi",
+        "ipAddress": "192.168.1.1"
+}
+
+----------------------------------------------
+
+Update :
+--------
+http://localhost:5000/api/User/Edit/3
+
+{
+         "id":3,
+        "UserName": "raj",
+        "Email": "raj@gmail.com",
+        "Password": "abc",
+        "AddedDate": "2020-05-01",
+        "ModifiedDate": "2020-07-13",
+        "FirstName":"Raj",
+        "LastName":"Mahajan",
+        "Address":"Mumbai",
+        "ipAddress": "192.168.1.1"
+}
+
+---------------------------------------------
+
+Delete :
+--------
+http://localhost:5000/api/User/Delete/3
+
+{
+        "id":3,
+        "UserName": "raj",
+        "Email": "raj@gmail.com",
+        "Password": "abc",
+        "AddedDate": "2020-05-01",
+        "ModifiedDate": "2020-07-13",
+        "FirstName":"Raj",
+        "LastName":"Mahajan",
+        "Address":"Mumbai",
+        "ipAddress": "192.168.1.1"
+}
+
+[ApiController]
+    [Route("api/[controller]")]
+    public class UserController:ControllerBase
+    {
+        IUserService userService;
+        IUserProfileService userProfileService;
+
+        public UserController(IUserService userService,IUserProfileService userProfileService)
+        {
+            this.userService=userService;
+            this.userProfileService=userProfileService;
+        }
+
+        [HttpGet("Users")]
+        public IActionResult GetUser()
+        {
+            return Ok(userService.GetUsers());
+        }
+        
+        [HttpPost]
+        [Route("Add")]
+        public void AddUser(UserDTO model)
+        {
+            User userEntity = new User
+            {
+                UserName = model.UserName,
+                Email = model.Email,
+                Password = model.Password,
+                AddedDate = DateTime.UtcNow,
+                ModifiedDate = DateTime.UtcNow,
+                IPAddress = Request.HttpContext.Connection.RemoteIpAddress.ToString(),
+                userProfile = new UserProfile
+                {
+                    FirstName = model.FirstName,
+                    LastName = model.LastName,
+                    Address = model.Address,
+                    AddedDate = DateTime.UtcNow,
+                    ModifiedDate = DateTime.UtcNow,
+                    IPAddress = Request.HttpContext.Connection.RemoteIpAddress.ToString()
+                }
+            };
+
+            userService.InsertUser(userEntity);
+        } 
+
+        [HttpPost("Delete/{id}")]
+        public void DeleteUser(long id)
+        {
+            UserProfile userProfile = userProfileService.GetUserProfile(id);
+            userService.DeleteUser(id);         
+        }
+
+        [HttpPost("Edit/{id}")]
+        public void EditUser(UserDTO model)
+        {
+            User userEntity = userService.GetUser(model.Id);
+            userEntity.Email = model.Email;
+            userEntity.ModifiedDate = DateTime.UtcNow;
+            userEntity.IPAddress = Request.HttpContext.Connection.RemoteIpAddress.ToString();
+            UserProfile userProfileEntity = userProfileService.GetUserProfile(model.Id);
+            userProfileEntity.FirstName = model.FirstName;
+            userProfileEntity.LastName = model.LastName;
+            userProfileEntity.Address = model.Address;
+            userProfileEntity.ModifiedDate = DateTime.UtcNow;
+            userProfileEntity.IPAddress = Request.HttpContext.Connection.RemoteIpAddress.ToString();
+            userEntity.userProfile = userProfileEntity;
+            userService.UpdateUser(userEntity);
+        }           
+    }
+
+public class UserDTO
+    {
+        public Int64 Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string UserName { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public DateTime AddedDate { get; set; }
+    }

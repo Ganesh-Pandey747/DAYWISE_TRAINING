@@ -1,0 +1,16 @@
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.exe
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.deps.json
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.runtimeconfig.json
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.runtimeconfig.dev.json
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.dll
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\ref\Garbage_Collection_program.dll
+D:\Day10\Garbage_Collection_program\bin\Debug\net5.0\Garbage_Collection_program.pdb
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.csproj.AssemblyReference.cache
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.AssemblyInfoInputs.cache
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.AssemblyInfo.cs
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.csproj.CoreCompileInputs.cache
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.dll
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\ref\Garbage_Collection_program.dll
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.pdb
+D:\Day10\Garbage_Collection_program\obj\Debug\net5.0\Garbage_Collection_program.genruntimeconfig.cache

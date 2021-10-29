@@ -1,0 +1,12 @@
+Remark
+  *Controller is unstructured due to not applied proper attribute routing, route prefix, route constraint
+  *There is no model Validation(Data Annotation or Fluent Model Validation)
+
+  There is lack of joining because atleast you need to have two tables for relationship.  Give proper demonstration (One to One) or (One to many).
+  **Do write Asynchronous programming by implementing task async and await.
+  
+  Security:
+  ****Controller is insecure that is there is no authentication so we need to write logic for securing the controller using Custom middleware.
+  *Need to handle runtime exceptions using try  throw and catch.
+
+

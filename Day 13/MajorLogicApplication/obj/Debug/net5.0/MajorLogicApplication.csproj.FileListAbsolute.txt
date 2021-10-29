@@ -1,0 +1,16 @@
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.exe
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.deps.json
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.json
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.dev.json
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.dll
+D:\MajorLogicApplication\bin\Debug\net5.0\ref\MajorLogicApplication.dll
+D:\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.pdb
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.AssemblyReference.cache
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfoInputs.cache
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfo.cs
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.CoreCompileInputs.cache
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.dll
+D:\MajorLogicApplication\obj\Debug\net5.0\ref\MajorLogicApplication.dll
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.pdb
+D:\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.genruntimeconfig.cache

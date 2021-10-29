@@ -1,0 +1,12 @@
+dotnet publish --configuration Release
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-aspnetcore-5.0.11-windows-hosting-bundle-installer
+dotnet publish --configuration Release
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-aspnetcore-5.0.11-windows-hosting-bundle-installer
+
+C:\Windows\System32\drivers\etc
+127.0.0.1 myfirstapp.com
+127.0.0.1 deployapp.com
+
+
+C:\Deployement\Ganesh\bin\Release\net5.0\publish\
+

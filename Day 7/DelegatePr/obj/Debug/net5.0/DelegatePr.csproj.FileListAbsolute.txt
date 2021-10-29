@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.exe
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.deps.json
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.runtimeconfig.json
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.runtimeconfig.dev.json
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.dll
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\ref\DelegatePr.dll
+C:\TaazaaTraining\Day7\DelegatePr\bin\Debug\net5.0\DelegatePr.pdb
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.AssemblyInfo.cs
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.dll
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\ref\DelegatePr.dll
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.pdb
+C:\TaazaaTraining\Day7\DelegatePr\obj\Debug\net5.0\DelegatePr.genruntimeconfig.cache

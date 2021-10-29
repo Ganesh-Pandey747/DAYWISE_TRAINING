@@ -1,0 +1,32 @@
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.exe
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.deps.json
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.json
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.dev.json
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.dll
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\ref\interfacep.dll
+C:\Users\HP\day4\interfacep\bin\Debug\net5.0\interfacep.pdb
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.csproj.AssemblyReference.cache
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfoInputs.cache
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfo.cs
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.csproj.CoreCompileInputs.cache
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.dll
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\ref\interfacep.dll
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.pdb
+C:\Users\HP\day4\interfacep\obj\Debug\net5.0\interfacep.genruntimeconfig.cache
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.exe
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.deps.json
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.json
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.dev.json
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.dll
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\ref\interfacep.dll
+D:\TaazaaTraining\Day 4\interfacep\bin\Debug\net5.0\interfacep.pdb
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.csproj.AssemblyReference.cache
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfoInputs.cache
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfo.cs
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.csproj.CoreCompileInputs.cache
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.dll
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\ref\interfacep.dll
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.pdb
+D:\TaazaaTraining\Day 4\interfacep\obj\Debug\net5.0\interfacep.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.exe
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.deps.json
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.runtimeconfig.json
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.runtimeconfig.dev.json
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.dll
+C:\Day6\Taazaa\bin\Debug\net5.0\ref\Taazaa.dll
+C:\Day6\Taazaa\bin\Debug\net5.0\Taazaa.pdb
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.csproj.AssemblyReference.cache
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.AssemblyInfoInputs.cache
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.AssemblyInfo.cs
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.csproj.CoreCompileInputs.cache
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.dll
+C:\Day6\Taazaa\obj\Debug\net5.0\ref\Taazaa.dll
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.pdb
+C:\Day6\Taazaa\obj\Debug\net5.0\Taazaa.genruntimeconfig.cache

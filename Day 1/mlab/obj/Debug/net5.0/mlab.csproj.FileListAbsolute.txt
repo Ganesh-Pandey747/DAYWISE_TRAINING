@@ -1,0 +1,12 @@
+C:\TaazaaTraining\mlab\bin\Debug\net5.0\mlab.deps.json
+C:\TaazaaTraining\mlab\bin\Debug\net5.0\mlab.dll
+C:\TaazaaTraining\mlab\bin\Debug\net5.0\ref\mlab.dll
+C:\TaazaaTraining\mlab\bin\Debug\net5.0\mlab.pdb
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.csproj.AssemblyReference.cache
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.AssemblyInfoInputs.cache
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.AssemblyInfo.cs
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.dll
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\ref\mlab.dll
+C:\TaazaaTraining\mlab\obj\Debug\net5.0\mlab.pdb

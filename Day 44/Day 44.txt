@@ -1,0 +1,40 @@
+dotnet ef dbcontext scaffold "Server=.;Database=BookStore;Trusted_Connection=True;User Id=sa;
+
+dotnet ef dbcontext Scaffold "Host=localhost;Port=5432;User ID=postgres;Password=root;Database=UserDb;Pooling=true;" Npgsql.EntityFrameworkCore.PostgreSQL -o Models
+
+
+
+dotnet ef dbcontext Scaffold "Host=localhost;Port=5432;User ID=postgres;Password=1234;Database=TokenDb44;Pooling=true;" Npgsql.EntityFrameworkCore.PostgreSQL -o Models
+
+
+
+
+======================
+[3:32 PM, 10/14/2021] Dpti Clg: dotnet ef dbcontext Scaffold "Host=localhost;Port=5432;User ID=postgres;Password=root;Database=UserDb;Pooling=true;" Npgsql.EntityFrameworkCore.PostgreSQL -o Models
+[3:49 PM, 10/14/2021] Dpti Clg: dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+[3:49 PM, 10/14/2021] Dpti Clg: dotnet add package AutoMapper --version 10.1.1
+
+dotnet add package Microsoft.IdentityModel.Tokens
+
+
+
+ CREATE TABLE TblUser (
+	UserID  int generated always as identity,
+	FullName VARCHAR ( 50 )  NOT NULL,
+	Email VARCHAR ( 50 ) NOT NULL,
+	Password VARCHAR ( 50 ) NOT NULL,
+	Salt VARCHAR ( 50 ) NOT NULL
+        );
+
+
+ CREATE TABLE TblBook (
+	BookID  int generated always as identity,
+	ISBN VARCHAR ( 50 )  NOT NULL,
+	Title VARCHAR ( 50 ) NOT NULL,
+	Author VARCHAR ( 50 ) NOT NULL,
+	Description VARCHAR ( 50 ) NOT NULL,
+                  Publisher VARCHAR ( 50 ) NOT NULL,
+                  PublishedYear VARCHAR ( 50 ) NOT NULL,
+                  Price decimal NOT NULL,
+                  password VARCHAR NOT NULL
+        );

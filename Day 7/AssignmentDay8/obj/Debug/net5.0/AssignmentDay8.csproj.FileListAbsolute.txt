@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.exe
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.deps.json
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.runtimeconfig.json
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.runtimeconfig.dev.json
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.dll
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\ref\AssignmentDay8.dll
+C:\TaazaaTraining\Day7\AssignmentDay8\bin\Debug\net5.0\AssignmentDay8.pdb
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.AssemblyInfo.cs
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.dll
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\ref\AssignmentDay8.dll
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.pdb
+C:\TaazaaTraining\Day7\AssignmentDay8\obj\Debug\net5.0\AssignmentDay8.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.deps.json
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\ref\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.pdb
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.AssemblyReference.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfoInputs.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfo.cs
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.CoreCompileInputs.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\ref\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.pdb
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.deps.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\ref\DataAccesslayer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.CopyComplete
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\ref\DataAccesslayer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 51\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.pdb

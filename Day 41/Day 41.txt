@@ -1,0 +1,45 @@
+========Angular=======
+ng serve -o --port 5000
+======================
+
+=======CoreWebApi=============
+properties==>launch settings.json
+==============================
+
+
+
+
+https://localhost:5001/Taazaa/User/Create
+
+https://localhost:5001/Taazaa/User/Login
+
+What is Observable???
+
+
+===================================================================================================================
+=======================================================
+C:\GaneshAngular\DummyProject\src\app\Service\user-service.service.ts
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class UserServiceService {
+  serviceEndpointR:any='https://localhost:7001/Taazaa/User/Create';
+  serviceEndpointL:any='https://localhost:7001/Taazaa/User/Login';
+
+  constructor(private httpClient: HttpClient)
+  {
+  }
+
+  createAccount(reg:any)
+  {
+    return this.httpClient.post(this.serviceEndpointR, reg);
+  }
+}
+
+===================================================================
+==================================================================
+
+

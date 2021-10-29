@@ -1,0 +1,20 @@
+How can we simplify the issue with callback hell??? as program seems to be complex due to nested architecture 
+
+I m also behaving as a publisher(Observable) as i m preparing data.:-
+=======================================================
+Ans-  Promise has three parts...
+1) Pending
+2) Success or // fulfill or // resolve
+3) Reject   // (catch)
+.........................................
+     
+
+     =================Consumer(subscriber)============================
+
+     We use the keyword "then, "catch",
+     data is given to "then" by resolve (if we have multiple next instead of resolve is called Observable) and data given to 
+
+
+
+
+node --experimental-modules c.mjs

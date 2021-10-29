@@ -1,0 +1,5 @@
+C:\Day6\Taazaa1\obj\Debug\net5.0\Taazaa1.csproj.AssemblyReference.cache
+C:\Day6\Taazaa1\obj\Debug\net5.0\Taazaa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day6\Taazaa1\obj\Debug\net5.0\Taazaa1.AssemblyInfoInputs.cache
+C:\Day6\Taazaa1\obj\Debug\net5.0\Taazaa1.AssemblyInfo.cs
+C:\Day6\Taazaa1\obj\Debug\net5.0\Taazaa1.csproj.CoreCompileInputs.cache

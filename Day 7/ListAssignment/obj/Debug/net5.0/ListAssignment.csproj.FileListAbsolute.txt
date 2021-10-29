@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.exe
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.deps.json
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.runtimeconfig.json
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.runtimeconfig.dev.json
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.dll
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ref\ListAssignment.dll
+C:\TaazaaTraining\Day7\ListAssignment\bin\Debug\net5.0\ListAssignment.pdb
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.AssemblyInfo.cs
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.dll
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ref\ListAssignment.dll
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.pdb
+C:\TaazaaTraining\Day7\ListAssignment\obj\Debug\net5.0\ListAssignment.genruntimeconfig.cache

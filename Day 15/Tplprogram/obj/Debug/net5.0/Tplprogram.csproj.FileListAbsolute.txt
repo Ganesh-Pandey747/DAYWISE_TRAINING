@@ -1,0 +1,16 @@
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.exe
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.deps.json
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.runtimeconfig.json
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.runtimeconfig.dev.json
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.dll
+D:\Day15\Tplprogram\bin\Debug\net5.0\ref\Tplprogram.dll
+D:\Day15\Tplprogram\bin\Debug\net5.0\Tplprogram.pdb
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.csproj.AssemblyReference.cache
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.AssemblyInfoInputs.cache
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.AssemblyInfo.cs
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.csproj.CoreCompileInputs.cache
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.dll
+D:\Day15\Tplprogram\obj\Debug\net5.0\ref\Tplprogram.dll
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.pdb
+D:\Day15\Tplprogram\obj\Debug\net5.0\Tplprogram.genruntimeconfig.cache

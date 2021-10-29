@@ -1,0 +1,78 @@
+using System;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Data.Common;
+using System.Data;
+using System.ComponentModel.DataAnnotations;
+
+namespace EmployeeProcedure
+{
+    public class Employee   // SRP Single Responsibility 
+    {
+        [Key]
+        public int emp_id { get; set; }
+        public string emp_name { get; set; }
+    }
+    public class EmployeeContext : DbContext
+    {
+        public EmployeeContext()
+        {
+
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)   // Open close principle
+        {
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;User ID=postgres;Password=1234;Database=26102021DB;Pooling=true;");
+        }
+
+        public DbSet<Employee> users { get; set; }// For manipulation weuse linq query or linq methods
+
+    }
+    public interface IEmployeeReposiory
+    {
+        IEnumerable<Employee> fetchUsers();
+        int AddUser(Employee employee);
+    }
+
+    class EmployeeRepository : IEmployeeReposiory
+    {
+        EmployeeContext objcontext; // now we need migration technique to create database mechanically
+
+        public EmployeeRepository()
+        {
+            objcontext = new EmployeeContext();
+        }
+        IEnumerable<Employee> IEmployeeReposiory.fetchUsers()
+        {
+            return objcontext.users.FromSqlRaw("exec getusers").ToList();
+            //return objcontext.users.FromSqlInterpolated($"SELECT * from users where id=1").ToList();
+        }
+        public int AddUser(Employee objEmployee)
+        {
+            var id = new SqlParameter("@un", objEmployee.emp_id);
+            var name = new SqlParameter("@ag", objEmployee.emp_name);
+            objcontext.Database.ExecuteSqlRaw("exec addu '" + id.Value + "','" + name.Value + "'");
+            return 1;
+
+        }
+        class Program
+        {
+            public static void Main()
+            {
+                IEmployeeReposiory urep = new EmployeeRepository();
+
+                Employee obj = new Employee();
+                obj.emp_id = 1;
+                obj.emp_name = "Sandeep";
+                urep.AddUser(obj);
+
+                var employeelist = urep.fetchUsers();
+                foreach (Employee eObj in employeelist)
+                {
+                    Console.WriteLine(eObj.emp_id + " " + eObj.emp_name );
+                }
+            }
+        }
+    }
+}

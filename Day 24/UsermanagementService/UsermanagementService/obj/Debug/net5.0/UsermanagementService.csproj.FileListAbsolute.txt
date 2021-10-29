@@ -1,0 +1,117 @@
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\appsettings.Development.json
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\appsettings.json
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.exe
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.deps.json
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.json
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.dev.json
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\ref\UsermanagementService.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\UsermanagementService.pdb
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Npgsql.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.AssemblyReference.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfoInputs.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfo.cs
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CoreCompileInputs.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.Manifest.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.xml
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\scopedcss\bundle\UsermanagementService.styles.css
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.RazorTargetAssemblyInfo.cache
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CopyComplete
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.dll
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\ref\UsermanagementService.dll
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.pdb
+C:\webapi\StandardwEfcore\UsermanagementService\obj\Debug\net5.0\UsermanagementService.genruntimeconfig.cache
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Humanizer.dll
+C:\webapi\StandardwEfcore\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\appsettings.json
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.exe
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.deps.json
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.json
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\ref\UsermanagementService.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.pdb
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.Manifest.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.xml
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\scopedcss\bundle\UsermanagementService.styles.css
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.RazorTargetAssemblyInfo.cache
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CopyComplete
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\ref\UsermanagementService.dll
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.pdb
+C:\Users\ganesh.pandey\Downloads\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.genruntimeconfig.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\appsettings.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.exe
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.deps.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\ref\UsermanagementService.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\UsermanagementService.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.AssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.Manifest.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\staticwebassets\UsermanagementService.StaticWebAssets.xml
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\scopedcss\bundle\UsermanagementService.styles.css
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.RazorTargetAssemblyInfo.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.csproj.CopyComplete
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\ref\UsermanagementService.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\obj\Debug\net5.0\UsermanagementService.genruntimeconfig.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 24\UsermanagementService\UsermanagementService\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

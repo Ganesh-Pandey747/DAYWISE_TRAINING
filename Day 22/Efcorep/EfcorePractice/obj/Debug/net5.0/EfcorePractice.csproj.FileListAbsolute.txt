@@ -1,0 +1,68 @@
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.exe
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.deps.json
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.runtimeconfig.json
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\ref\EfcorePractice.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.pdb
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Npgsql.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.AssemblyInfo.cs
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.CopyComplete
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\ref\EfcorePractice.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.pdb
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.genruntimeconfig.cache
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\Desktop\Day22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.exe
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.deps.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.runtimeconfig.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\ref\EfcorePractice.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\EfcorePractice.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.AssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.csproj.CopyComplete
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\ref\EfcorePractice.dll
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.pdb
+C:\Users\ganesh.pandey\TaazaTraining\WebApi\Day 22\Efcorep\EfcorePractice\obj\Debug\net5.0\EfcorePractice.genruntimeconfig.cache

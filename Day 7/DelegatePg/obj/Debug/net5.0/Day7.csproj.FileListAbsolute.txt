@@ -1,0 +1,16 @@
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.exe
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.deps.json
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.runtimeconfig.json
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.runtimeconfig.dev.json
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.dll
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\ref\Day7.dll
+C:\TaazaaAssignment\Day7\bin\Debug\net5.0\Day7.pdb
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.csproj.AssemblyReference.cache
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.AssemblyInfoInputs.cache
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.AssemblyInfo.cs
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.csproj.CoreCompileInputs.cache
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.dll
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\ref\Day7.dll
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.pdb
+C:\TaazaaAssignment\Day7\obj\Debug\net5.0\Day7.genruntimeconfig.cache

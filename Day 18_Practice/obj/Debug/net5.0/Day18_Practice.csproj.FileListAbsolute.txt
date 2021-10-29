@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.exe
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.deps.json
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.runtimeconfig.json
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.dll
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\ref\Day18_Practice.dll
+C:\Users\HP\Desktop\Day18_Practice\bin\Debug\net5.0\Day18_Practice.pdb
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.AssemblyInfo.cs
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.dll
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\ref\Day18_Practice.dll
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.pdb
+C:\Users\HP\Desktop\Day18_Practice\obj\Debug\net5.0\Day18_Practice.genruntimeconfig.cache

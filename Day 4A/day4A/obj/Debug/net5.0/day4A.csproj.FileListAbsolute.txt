@@ -1,0 +1,32 @@
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.exe
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.deps.json
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.runtimeconfig.json
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.runtimeconfig.dev.json
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.dll
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\ref\day4A.dll
+C:\Users\HP\day4A\day4A\bin\Debug\net5.0\day4A.pdb
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.csproj.AssemblyReference.cache
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.AssemblyInfoInputs.cache
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.AssemblyInfo.cs
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.csproj.CoreCompileInputs.cache
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.dll
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\ref\day4A.dll
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.pdb
+C:\Users\HP\day4A\day4A\obj\Debug\net5.0\day4A.genruntimeconfig.cache
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.exe
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.deps.json
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.runtimeconfig.json
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.runtimeconfig.dev.json
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.dll
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\ref\day4A.dll
+D:\TaazaaTraining\Day 4A\day4A\bin\Debug\net5.0\day4A.pdb
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.csproj.AssemblyReference.cache
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.AssemblyInfoInputs.cache
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.AssemblyInfo.cs
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.csproj.CoreCompileInputs.cache
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.dll
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\ref\day4A.dll
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.pdb
+D:\TaazaaTraining\Day 4A\day4A\obj\Debug\net5.0\day4A.genruntimeconfig.cache

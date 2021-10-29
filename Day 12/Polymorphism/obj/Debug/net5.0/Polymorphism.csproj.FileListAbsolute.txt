@@ -1,0 +1,16 @@
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+D:\Day12\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+D:\Day12\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+D:\Day12\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+D:\Day12\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

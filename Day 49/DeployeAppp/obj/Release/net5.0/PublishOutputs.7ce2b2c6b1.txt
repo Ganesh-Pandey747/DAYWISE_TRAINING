@@ -1,0 +1,11 @@
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\DeployeAppp.exe
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\appsettings.Development.json
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\appsettings.json
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\DeployeAppp.dll
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\DeployeAppp.deps.json
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\DeployeAppp.runtimeconfig.json
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\DeployeAppp.pdb
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Day 49\DeployeAppp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
