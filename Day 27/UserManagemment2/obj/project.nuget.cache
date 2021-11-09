@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0KZiL2fmp5r23F/tR0idMUA0/f/fBUxgxp8gSdxgNch2odlz7Y8KGSi3eaipPD9bJnhJSU5oK9oqz1zajXuzRg==",
+  "dgSpecHash": "Sty9LOMEqaGWZRhs7oMdqvzMYqFQ0F8OnBi4rOE38ds6JP37fkbgdHcbk5E+pRqvzIoMSM2RkNx/3VA6YCIO6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ganesh.pandey\\TaazaTraining\\WebApi\\Day 27\\UserManagemment2\\UserManagemment2.csproj",
+  "projectFilePath": "C:\\Users\\ganesh.pandey\\TaazaTraining\\DAYWISE\\Day 27\\UserManagemment2\\UserManagemment2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganesh.pandey\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ganesh.pandey\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

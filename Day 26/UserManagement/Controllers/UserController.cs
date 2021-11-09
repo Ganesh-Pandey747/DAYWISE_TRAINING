@@ -18,7 +18,7 @@ namespace UserManagement.Controllers
             userProfileRepository=_userProfileRepository;
             userRepository=_userRepository;
         }
-        public IActionResult createAccount()
+        public IActionResult createAccount();
        
     }
 }

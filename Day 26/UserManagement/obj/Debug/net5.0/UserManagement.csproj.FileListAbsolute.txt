@@ -36,3 +36,13 @@ C:\Users\ganesh.pandey\Desktop\Day 26\UserManagement\bin\Debug\net5.0\Microsoft.
 C:\Users\ganesh.pandey\Desktop\Day 26\UserManagement\bin\Debug\net5.0\Npgsql.dll
 C:\Users\ganesh.pandey\Desktop\Day 26\UserManagement\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\ganesh.pandey\Desktop\Day 26\UserManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.AssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.dll
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\ref\UserManagement.dll
+C:\Users\ganesh.pandey\TaazaTraining\DAYWISE\Day 26\UserManagement\obj\Debug\net5.0\UserManagement.pdb
